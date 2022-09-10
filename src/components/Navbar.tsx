@@ -9,7 +9,7 @@ const NavbarContainer = styled.div`
 `;
 
 const NavbarLogo = styled.h1`
-  font-size: 2.25rem;
+  font-size: 2rem;
 `;
 
 const NavbarSubtitle = styled.p`
